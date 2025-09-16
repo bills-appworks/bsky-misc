@@ -21,9 +21,9 @@ Blueskyでは、公式以外のアプリを含むBlueskyアカウント（ユー
 
 <div style="width: 100%; display: flex; justify-content: center;">
   <div style="width: 80%; display: flex; justify-content: space-around; padding: 0.5em; background-color: gray; border-radius: 4px;">
-    <img src="./Apple.png" style="height: 50px; width: auto;">
-    <img src="./google.svg" style="height: 50px; width: auto;">
-    <img src="./LINE.png" style="height: 50px; width: auto;">
+    <img src="./Apple.png" style="height: 30px; width: auto;">
+    <img src="./google.svg" style="height: 30px; width: auto;">
+    <img src="./LINE.png" style="height: 30px; width: auto;">
   </div>
 </div>
 <div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuthを使った認証を行うボタンの例</div>
