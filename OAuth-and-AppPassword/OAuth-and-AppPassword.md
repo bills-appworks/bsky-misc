@@ -10,7 +10,10 @@ Blueskyでは、公式以外のアプリを含むBlueskyアカウント（ユー
 
 いくつかのアプリ・Webサービス（以降合わせてアプリと呼びます）では認証方法がアプリパスワードではなくOAuthになっていますが、認証画面の中でアプリに対して与える権限についての確認が表示されるため、不安になる方もいらっしゃるかと思います。
 
-【TODO：OAuth認証の認可パーミッション提示画面スクリーンショット】
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="./permit.png" style="max-width: 600px;">
+</div>
+<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">権限確認画面の例</div>
 
 しかし、OAuthはパスワード以上に安全な認証手段として世界中のアプリで利用されています。何らかのアプリを利用する際に、アプリ自体のパスワードではなく、「○○○でログイン」（○○○は例えばGoogleなど、アカウント管理をしているサービス）などの認証を目にする方も多いかと思いますが、それらは同じOAuthによるしくみです。
 
@@ -26,7 +29,10 @@ OAuth認証画面ではアプリに対して与える権限が表示されるた
 
 またパスワード入力について、Webブラウザでアドレスバー（URL欄）を見ていただくとわかるように、アプリ自身ではなくBluesky（`bsky.social`など）のドメインになっており、パスワード自体はアプリが関与することなくBlueskyによって処理されていることがわかるかと思います。
 
-【TODO：OAuth認証のアドレスバー含むスクリーンショット】
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="./signin-domain.png" style="max-width: 600px;">
+</div>
+<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuth認証画面の例（画面上アドレスバーのドメインがBluesky公式のbsky.socialになっている）</div>
 
 【TODO：OAuth認証のアプリとBluesky（認可サーバ）の関係図】
 
