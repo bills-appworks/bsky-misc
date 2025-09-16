@@ -48,7 +48,12 @@ OAuth認証画面ではアプリに対して与える権限が表示されるた
 </div>
 <div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuth認証画面の例（画面上アドレスバーのドメインがBluesky公式のbsky.socialになっている）</div>
 
-【TODO：OAuth認証のアプリとBluesky（認可サーバ）の関係図】
+<div style="width: 100%; display: flex; justify-content: center;">
+  <div style="padding: 0.5em; background-color: gray; border-radius: 4px;">
+    <img src="./OAuth-flow.png" style="max-width: 600px;">
+  </div>
+</div>
+<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuth認証の流れ（簡略版）</div>
 
 表示されている権限についても、現在Blueskyによって提供されているアプリから指定可能な選択肢が大まかであるため、アプリの機能範囲と一致していないように見えますが、細かく権限範囲を指定できるよう継続的に改善されているところですので、今後より少ない権限範囲に限定されていく予定です。
 
