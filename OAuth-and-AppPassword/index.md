@@ -1,7 +1,3 @@
-<b>※関係者レビュー中につき紹介はお待ちください</b>
-
----
-
 Blueskyでは、公式以外のアプリを含むBlueskyアカウント（ユーザー）に対する認証方法を、今後 **「アプリパスワード」** から **「OAuth」** （オーオース）に変更していくことが予定されています。現在は両方の方式が混在しており、アプリパスワードは将来廃止することが検討されています。
 
 > 参考：<a href="https://docs.bsky.app/blog/oauth-atproto" target="bsky">OAuth for AT Protocol（Bluesky公式アナウンスのひとつ）</a>
