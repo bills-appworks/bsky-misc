@@ -6,24 +6,25 @@ Blueskyでは、公式以外のアプリを含むBlueskyアカウント（ユー
 
 いくつかのアプリ・Webサービス（以降合わせてアプリと呼びます）では認証方法がアプリパスワードではなくOAuthになっています。しかし、認証画面の中でアプリに対して与える権限についての確認が表示されるため、不安になる方もいらっしゃるかと思います。
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="padding: 0.5em; background-color: gray; border-radius: 4px;">
-    <img src="./permit.png" style="max-width: 600px;">
-  </div>
+<div align="center">
+
+<img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreidalueekycdcrof4h24wmjp2et5exaco4lz4s77ljctttlbrdigdy" width="600">
+
+<font color="gray">権限確認画面の例</font>
+
 </div>
-<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">権限確認画面の例</div>
 
 しかし、OAuthはパスワード以上に安全な認証手段として世界中のアプリで利用されています。何らかのアプリを利用する際に、アプリ自体のパスワードではなく、「○○○でログイン」（○○○は例えばGoogleなど、アカウント管理をしているサービス）などの認証を目にする方も多いかと思いますが、それらは同じOAuthによるしくみです。
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="width: 80%; display: flex; justify-content: space-around; padding: 0.5em; background-color: gray; border-radius: 4px;">
-    <img src="./Apple.png" style="height: 30px; width: auto;">
-    <img src="./google.svg" style="height: 30px; width: auto;">
-    <img src="./LINE.png" style="height: 30px; width: auto;">
-  </div>
-</div>
-<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuthを使った認証を行うボタンの例</div>
 
+<div align="center">
+
+| <img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreicpxuq4labvr72bovur25sg6wzop444pyrcg66g4t5znnf42a4kz4" width="220"> | <img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreie7ry7f7rjixezuhbverlej77oldys62jkjjz4ba2exkysmsi4yxa"> |<img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreide7eusud5ba3phfz6gdjcynw3yue6mm632nwbvncpx4rpmz6fbbm">
+| --- | --- | --- |
+
+<font color="gray">OAuthを使った認証を行うボタンの例</font>
+
+</div>
 
 BlueskyにおけるOAuthとアプリパスワードの違いの概要は以下になります。
 
@@ -37,19 +38,22 @@ OAuth認証画面ではアプリに対して与える権限が表示されるた
 
 またパスワード入力について、Webブラウザでアドレスバー（URL欄）を見ていただくとわかるように、アプリ自身ではなくBluesky（`bsky.social`など）のドメインになっており、パスワード自体はアプリが関与することなくBlueskyによって処理されていることがわかるかと思います。
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="padding: 0.5em; background-color: gray; border-radius: 4px;">
-    <img src="./signin-domain.png" style="max-width: 600px;">
-  </div>
-</div>
-<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuth認証画面の例（画面上アドレスバーのドメインがBluesky公式のbsky.socialになっている）</div>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="padding: 0.5em; background-color: gray; border-radius: 4px;">
-    <img src="./OAuth-flow.png" style="max-width: 600px;">
-  </div>
+<div align="center">
+
+<img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreie32s6qqonpdaccv2fmif32yszbt2k2urldhstpdo4alvio2wwg2q" width="600">
+
+<font color="gray">OAuth認証画面の例（画面上アドレスバーのドメインがBluesky公式のbsky.socialになっている）</font>
+
 </div>
-<div style="text-align: center; font-size: small; color: gray; margin-bottom: 1em;">OAuth認証の流れ（簡略版）</div>
+
+<div align="center">
+
+<img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreifng32tmkedyqiejevbv7rdfkorcbrcv6ak2mpc5iiysmn5b7j5ou" width="600">
+
+<font color="gray">OAuth認証の流れ（簡略版）</font>
+
+</div>
 
 表示されている権限についても、現在Blueskyによって提供されているアプリから指定可能な選択肢が大まかであるため、アプリの機能範囲と一致していないように見えることがあります。これについては細かく権限範囲を指定できるよう継続的に改善されているところですので、今後より少ない権限範囲に限定されていく予定です。
 
