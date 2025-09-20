@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <style>
+      :root {
+        --color-dark-background: black;
+        --color-dark-text: #DDDDDD;
+        --color-dark-background-pane: #202020;
+        --color-light-background: #EEEEFF;
+        --color-light-background-pane: #E0E0F0;
+        --color-light-text: black;
+      }
+
+      :root {
+        --background: var(--color-light-background);
+        --background-pane: var(--color-light-background-pane);
+        --text: var(--color-light-text);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background: var(--color-dark-background);
+          --background-pane: var(--color-dark-background-pane);
+          --text: var(--color-dark-text);
+        }
+      }
+
+      body {
+        background-color: var(--background);
+        color: var(--text);
+        max-width: 768px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+
+      table {
+        border-collapse: collapse;
+      }
+
+      th, td {
+        border: 1px solid;
+        padding: 0.5em;
+        text-align: left;
+      }
+
+      a {
+        color: dodgerblue;
+      }
+
+      span.table {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
