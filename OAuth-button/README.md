@@ -11,17 +11,17 @@
 
 | <img src="./Login-with-Bluesky-ja.svg" /> | <img src="./Sign-in-with-Bluesky-ja.svg" /> |
 | --- | --- |
-| <img src="./Login-with-Bluesky-ja.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-ja.svg" height="45" /> |
+| <img src="./Login-with-Bluesky-ja.svg" width="270" /> | <img src="./Sign-in-with-Bluesky-ja.svg" width="270" /> |
 
 #### 英語
 
 | <img src="./Login-with-Bluesky-en.svg" /> | <img src="./Sign-in-with-Bluesky-en.svg" /> |
 | --- | --- |
-| <img src="./Login-with-Bluesky-en.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-en.svg" height="45" /> |
+| <img src="./Login-with-Bluesky-en.svg" width="270" /> | <img src="./Sign-in-with-Bluesky-en.svg" width="270" /> |
 
 #### ポルトガル語（ブラジル）
 
 
 | <img src="./Login-with-Bluesky-pt-BR.svg" /> | <img src="./Sign-in-with-Bluesky-pt-BR.svg" /> |
 | --- | --- |
-| <img src="./Login-with-Bluesky-pt-BR.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-pt-BR.svg" height="45" /> |
+| <img src="./Login-with-Bluesky-pt-BR.svg" width="300" /> | <img src="./Sign-in-with-Bluesky-pt-BR.svg" width="270" /> |
