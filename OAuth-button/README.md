@@ -1,0 +1,27 @@
+## Bluesky OAuth認証ボタン
+
+### 権利関係
+- Public Domain（クレジット表示不要・改変自由）の予定
+- 使用フォントはNoto Sans（欧文）、Noto Sans JP（和文）で、[SIL Open Font License](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)に基づきクリア
+- 蝶のアイコン画像は[Bluesky広報メディアキット](https://bsky.social/about/blog/press-faq)より
+
+### 表示サンプル
+
+#### 日本語
+
+| <img src="./Login-with-Bluesky-ja.svg" /> | <img src="./Sign-in-with-Bluesky-ja.svg" /> |
+| --- | --- |
+| <img src="./Login-with-Bluesky-ja.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-ja.svg" height="45" /> |
+
+#### 英語
+
+| <img src="./Login-with-Bluesky-en.svg" /> | <img src="./Sign-in-with-Bluesky-en.svg" /> |
+| --- | --- |
+| <img src="./Login-with-Bluesky-en.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-en.svg" height="45" /> |
+
+#### ポルトガル語（ブラジル）
+
+
+| <img src="./Login-with-Bluesky-pt-BR.svg" /> | <img src="./Sign-in-with-Bluesky-pt-BR.svg" /> |
+| --- | --- |
+| <img src="./Login-with-Bluesky-pt-BR.svg" height="45"/> | <img src="./Sign-in-with-Bluesky-pt-BR.svg" height="45" /> |
