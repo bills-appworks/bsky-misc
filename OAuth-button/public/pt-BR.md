@@ -5,7 +5,7 @@
 - Fornecido para uso como interface de entrada para autenticação/autorização OAuth em aplicativos relacionados ao atproto/Bluesky.
 
 - As imagens dos botões são de domínio público (não é necessário crédito, livre para modificar).
-  - <img src="./public-domain.png" />
+  - <img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreicfa7f7km2y2baufo64sp4xxx45fmmfuagtff6shiwnlpp2v2usce" />
 
 ## Materiais e informações de licença usados para a criação das imagens dos botões
 
