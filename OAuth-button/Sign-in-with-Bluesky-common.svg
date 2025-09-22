@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="30"
+   viewBox="0 0 47.624999 7.9375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Sign-in-with-Bluesky-common.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.825"
+     inkscape:cx="115.94771"
+     inkscape:cy="12.941176"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="100"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="common-design"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#1083fe;fill-opacity:1;stroke:#1083fe;stroke-width:0.257991;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="47.367008"
+       height="7.6795087"
+       x="0.1289961"
+       y="0.1289961"
+       inkscape:label="background"
+       ry="2.1166666" /><path
+       d="M 5.4155475,2.1370388 C 5.9008889,2.5508634 6.4229288,3.3899275 6.6145954,3.840218 6.8062768,3.3899606 7.3282878,2.5508551 7.8136434,2.1370388 8.1638402,1.8384394 8.7312499,1.6074002 8.7312499,2.3425792 c 0,0.1468253 -0.074119,1.2334081 -0.1175915,1.4098106 C 8.4625517,4.3656869 7.9119218,4.5221115 7.4221281,4.4274361 8.2782782,4.5929294 8.4960749,5.1411036 8.0257176,5.6892773 7.1324168,6.730367 6.7417846,5.4280643 6.6416449,5.0943669 6.6232956,5.0331917 6.6147098,5.0045739 6.6145827,5.0289091 6.6144558,5.0045731 6.6058716,5.0331846 6.5875205,5.0943677 6.4874254,5.4280643 6.0968004,6.7304003 5.2034483,5.6892773 4.7330842,5.1411036 4.9508733,4.5928963 5.8070379,4.4274361 5.3172297,4.5221115 4.766593,4.3656861 4.6155077,3.7523898 4.5720346,3.5759708 4.4979166,2.4893878 4.4979166,2.3425792 c 0,-0.735179 0.5674239,-0.5041398 0.917606,-0.2055404 z"
+       fill="#1185fe"
+       id="path1"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.00777847"
+       inkscape:label="butterfly" /></g></svg>
