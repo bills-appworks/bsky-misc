@@ -5,7 +5,7 @@
 - atproto/Bluesky関連アプリにおいて、OAuth認証・認可を行う際の入り口となるUIで利用することを目的として提供します。
 
 - 提供するボタン画像はPublic Domain（クレジット表記不要・改変自由）です。
-  - <img src="./public-domain.png" />
+  - <img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreicfa7f7km2y2baufo64sp4xxx45fmmfuagtff6shiwnlpp2v2usce" />
 
 ## 提供ボタン画像作成に使用した素材およびライセンス情報
 

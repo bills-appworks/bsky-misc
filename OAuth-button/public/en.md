@@ -5,7 +5,7 @@
 - Provided for use as the entry-point UI for OAuth authentication/authorization in atproto/Bluesky-related apps.
 
 - The button images are Public Domain (no credit required, free to modify).
-  - <img src="./public-domain.png" />
+  - <img src="https://verpa.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Alfjssqqi6somnb7vhup2jm5w&cid=bafkreicfa7f7km2y2baufo64sp4xxx45fmmfuagtff6shiwnlpp2v2usce" />
 
 ## Materials and License Information Used for Button Image Creation
 
