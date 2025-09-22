@@ -25,18 +25,18 @@
 
 ### English
 
-| <img src="./Sign-in-with-Bluesky-en.svg" /> | <img src="./Login-with-Bluesky-en.svg" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Sign-in-with-Bluesky-en.svg" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Login-with-Bluesky-en.svg" /> |
 | --- | --- |
-| <img src="./Sign-in-with-Bluesky-en.svg" width="270" /> | <img src="./Login-with-Bluesky-en.svg" width="270" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Sign-in-with-Bluesky-en.svg" width="270" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Login-with-Bluesky-en.svg" width="270" /> |
 
 ### Portuguese (Brazil)
 
-| <img src="./Entrar-com-Bluesky-pt-BR.svg" /> | <img src="./Fazer-login-com-Bluesky-pt-BR.svg" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Entrar-com-Bluesky-pt-BR.svg" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Fazer-login-com-Bluesky-pt-BR.svg" /> |
 | --- | --- |
-| <img src="./Entrar-com-Bluesky-pt-BR.svg" width="300" /> | <img src="./Fazer-login-com-Bluesky-pt-BR.svg" width="270" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Entrar-com-Bluesky-pt-BR.svg" width="300" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Fazer-login-com-Bluesky-pt-BR.svg" width="270" /> |
 
 ### Japanese
 
-| <img src="./Sign-in-with-Bluesky-ja.svg" /> | <img src="./Login-with-Bluesky-ja.svg" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Sign-in-with-Bluesky-ja.svg" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Login-with-Bluesky-ja.svg" /> |
 | --- | --- |
-| <img src="./Sign-in-with-Bluesky-ja.svg" width="270" /> | <img src="./Login-with-Bluesky-ja.svg" width="270" /> |
+| <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Sign-in-with-Bluesky-ja.svg" width="270" /> | <img src="https://raw.githubusercontent.com/bills-appworks/bsky-misc/refs/heads/main/OAuth-button/public/Login-with-Bluesky-ja.svg" width="270" /> |
