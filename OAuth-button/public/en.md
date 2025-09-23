@@ -22,6 +22,7 @@
 - Please download the images shown below using your web browser's download function.
 - The images are in SVG format, so they can be scaled freely.
 - For HTML `img` elements, you can specify any display size using CSS `width` and `height` attributes (no image editing required).
+- The following shows different text patterns side by side, and different size patterns vertically. Depending on your screen size (such as on mobile), the images may appear at the same size.
 
 ### English
 
