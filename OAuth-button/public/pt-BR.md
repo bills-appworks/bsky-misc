@@ -22,7 +22,7 @@
 - Baixe as imagens mostradas abaixo usando a função de download do seu navegador.
 - As imagens estão no formato SVG, portanto podem ser ampliadas ou reduzidas livremente.
 - Para elementos HTML `img`, você pode especificar qualquer tamanho de exibição usando os atributos CSS `width` e `height` (não é necessário editar a imagem).
- - Abaixo, diferentes padrões de texto são exibidos lado a lado, e diferentes padrões de tamanho são exibidos verticalmente. Dependendo do tamanho da tela (como em dispositivos móveis), as imagens podem aparecer com o mesmo tamanho.
+- Abaixo, diferentes padrões de texto são exibidos lado a lado, e diferentes padrões de tamanho são exibidos verticalmente. Dependendo do tamanho da tela (como em dispositivos móveis), as imagens podem aparecer com o mesmo tamanho.
 
 ### Português (Brasil)
 
