@@ -17,6 +17,8 @@
   - [`Wikimedia Commons File:Bluesky_Logo.svg`](https://commons.wikimedia.org/wiki/File:Bluesky_Logo.svg)
   - ライセンス：[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+- (2025-10-12追記)提供ボタン画像にはテキストのフォントアウトライン（編集可能なベクタパス）が含まれますが、フォントファイルそのもの（.ttf/.woff 等）は配布していません。 編集可能なアウトラインを含むファイルはフォント由来の部分が SIL Open Font License (OFL) の対象になる可能性があります。フォント本体や改変フォントの配布には OFL の条件が適用されます。詳しくは [SIL Open Font License](https://openfontlicense.org/) をご確認ください。
+
 ## 提供ボタン画像（表示サンプル）
 
 - 以下に表示されている画像からWebブラウザの機能等でダウンロードしてください。
