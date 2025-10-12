@@ -16,6 +16,7 @@
 - Imagem do ícone Bluesky
   - [`Wikimedia Commons File:Bluesky_Logo.svg`](https://commons.wikimedia.org/wiki/File:Bluesky_Logo.svg)
   - Licença: [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- (adendo 2025-10-12) As imagens dos botões fornecidas incluem contornos de fonte de texto (paths vetoriais editáveis), porém os próprios arquivos de fonte (por exemplo .ttf/.woff) não são distribuídos. Arquivos que contêm contornos editáveis podem incluir componentes derivados da fonte e, portanto, podem estar sujeitos à SIL Open Font License (OFL). Os termos da OFL aplicam-se à distribuição dos arquivos de fonte em si e a fontes modificadas. Para mais detalhes, consulte a SIL Open Font License: [https://openfontlicense.org/](https://openfontlicense.org/).
 
 ## Exemplos de imagens dos botões fornecidos
 

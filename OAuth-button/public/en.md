@@ -16,6 +16,7 @@
 - Bluesky Icon Image
   - [`Wikimedia Commons File:Bluesky_Logo.svg`](https://commons.wikimedia.org/wiki/File:Bluesky_Logo.svg)
   - License: [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- (2025-10-12 addendum) The provided button images include text font outlines (editable vector paths), but the font files themselves (e.g. .ttf/.woff) are not distributed. Files containing editable outlines may include font-derived components and could therefore be subject to the SIL Open Font License (OFL). The OFL terms apply to distribution of the font files themselves and to modified fonts. For details, please see the SIL Open Font License: [https://openfontlicense.org/](https://openfontlicense.org/).
 
 ## Sample Images of Provided Buttons
 
