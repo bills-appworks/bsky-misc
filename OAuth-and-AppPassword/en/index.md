@@ -61,7 +61,14 @@ Of course, just because it's OAuth doesn't mean it's absolutely safe. The app ca
 
 However, as mentioned above, OAuth is not more dangerous or less trustworthy than App Password, so please use it without anxiety!
 
-It is also possible to check and revoke apps that have been authenticated with OAuth. For details, please refer to the following article.
+It is also possible to check and revoke apps that have been authenticated with OAuth. For details, please refer to the following article by **anon** [@anon5r.com](https://bsky.app/profile/did:plc:c22jdrqhoajyj5ca7e56a3ke).
 
 (This is a Japanese article.)
 [BlueskyでOAuth認証したアプリの管理について (About managing apps authenticated with OAuth on Bluesky)](https://whtwnd.com/anon5r.com/3mb7a3swfrq2v)
+
+[Added on 2026/1/21]
+
+For more information on the background of why some apps use App Passwords and others use OAuth, the following article by **anon** [@anon5r.com](https://bsky.app/profile/did:plc:c22jdrqhoajyj5ca7e56a3ke) is helpful.
+
+(This is a Japanese article.)
+[AppPasswordとOAuthについておさらい @anon5r.com (A review of AppPassword and OAuth @anon5r.com)](https://whtwnd.com/anon5r.com/3mchzlxdo222p)
