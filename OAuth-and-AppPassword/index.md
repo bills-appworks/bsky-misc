@@ -63,6 +63,12 @@ OAuth認証画面ではアプリに対して与える権限が表示されるた
 
 【2025/12/31追記】
 
-OAuth認証したアプリについての確認や取り消しをすることも可能です。詳細については以下の記事を参考にしてください。
+OAuth認証したアプリについての確認や取り消しをすることも可能です。詳細については **anon** [@anon5r.com](https://bsky.app/profile/did:plc:c22jdrqhoajyj5ca7e56a3ke) さんによる以下の記事を参考にしてください。
 
-[BlueskyでOAuth認証したアプリの管理について](https://whtwnd.com/anon5r.com/3mb7a3swfrq2v)
+[BlueskyでOAuth認証したアプリの管理について @anon5r.com](https://whtwnd.com/anon5r.com/3mb7a3swfrq2v)
+
+【2026/1/21追記】
+
+アプリパスワードを使うアプリとOAuthを使うアプリがある経緯については **anon** [@anon5r.com](https://bsky.app/profile/did:plc:c22jdrqhoajyj5ca7e56a3ke) さんによる以下の記事が参考になります。
+
+[AppPasswordとOAuthについておさらい @anon5r.com](https://whtwnd.com/anon5r.com/3mchzlxdo222p)
